@@ -1,0 +1,1 @@
+alert("Olá mundo!") //vai falar olá mundo num pop-up
